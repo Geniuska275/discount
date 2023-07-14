@@ -1,0 +1,23 @@
+{
+  "name": "aigbojie-discount",
+  "version": "1.0.1",
+  "description": "for calculating discounts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geniuska275/discount.git"
+  },
+  "keywords": [
+    "aigbojie",
+    "discount"
+  ],
+  "author": "Aigbojie  Kingsley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geniuska275/discount/issues"
+  },
+  "homepage": "https://github.com/Geniuska275/discount#readme"
+}
